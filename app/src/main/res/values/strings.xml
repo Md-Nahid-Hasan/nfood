@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">nfood</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="Division">
+        <item>Dhaka</item>
+        <item>Chattogram</item>
+    </string-array>
+
+    <string-array name="Shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Nahid Biryani</item>
+        <item>Burger</item>
+        <item>Fried Rice</item>
+        <item>Fuchka</item>
+        <item>Noodles</item>
+        <item>Pizza</item>
+        <item>Dosa</item>
+        <item>Chicken Fry</item>
+        <item>Chicken Spicy</item>
+        <item>HotDog</item>
+        <item>Pasta</item>
+
+    </string-array>
+</resources>
